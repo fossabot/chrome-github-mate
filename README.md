@@ -24,6 +24,7 @@ Amazing native-like 'Download' button in file detail page!
 
 #### 2. Open repo's Github Pages with one-click
 ![click to go to Github Pages](https://lh3.googleusercontent.com/Kqy1GJ4AhBhacfP32EpbPgXcqUCRgHD49zm3Lq98Kau9genJE8ZRzxsbIiFaSZRdj4Oj2asPPdU=s640-h400-e365-rw)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fchrome-github-mate.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fchrome-github-mate?ref=badge_shield)
 
 #### 3. Show Repo Size
 ![show repo size](https://lh3.googleusercontent.com/55rEmkS6aozOxTiDedq5ENddNK2C2P4VfwVK-DoeCbHOduXPLySXv8dqdLFFAPtgsERLq2_u=s640-h400-e365-rw)
@@ -58,3 +59,6 @@ Add 'Ignore Spaces' and 'Show Spaces' button to let you ignore whitespace in cod
 ### License
 
 Released under the terms of MIT License
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fchrome-github-mate.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fchrome-github-mate?ref=badge_large)
